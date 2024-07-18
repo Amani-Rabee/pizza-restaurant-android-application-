@@ -62,8 +62,8 @@ Advance Pizza is an Android application designed for a pizza restaurant, enablin
    
 ## Resualts 
 
-https://github.com/user-attachments/assets/7df8efb5-ec35-41a5-8f90-19477a8b46b3
-https://github.com/user-attachments/assets/0764ca93-e9ab-475d-85bc-c229db21cf93
+1. https://github.com/user-attachments/assets/7df8efb5-ec35-41a5-8f90-19477a8b46b3
+2. https://github.com/user-attachments/assets/0764ca93-e9ab-475d-85bc-c229db21cf93
 
 
 
