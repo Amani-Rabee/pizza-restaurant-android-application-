@@ -59,6 +59,12 @@ Advance Pizza is an Android application designed for a pizza restaurant, enablin
 2. On the introduction screen, click "Get Started."
 3. If connected successfully, proceed to the login or sign-up page.
 4. Use the Navigation Drawer to explore the app's functionalities.
+   
+## Resualts 
+
+https://github.com/user-attachments/assets/7df8efb5-ec35-41a5-8f90-19477a8b46b3
+
+
 
 
 ## Authors
